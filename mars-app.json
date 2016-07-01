@@ -1,0 +1,11 @@
+{
+    "platform": "mac",
+    "jdk": "openjdk.zip",
+    "classpath": [
+        "mars.jar"
+    ],
+    "mainclass": "Mars",
+    "outdir": "MARS.app",
+    "executable": "MARS",
+    "icon": "mars.icns"
+}
